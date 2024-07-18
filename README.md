@@ -1,6 +1,6 @@
 # CosmicChild369
 
-![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
+![Profile Banner][(https://github.com/CosmicChild369/Profile-Picture)]
 
 ## Welcome to My GitHub Profile!
 
