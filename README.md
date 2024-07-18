@@ -28,11 +28,11 @@ Here are a few projects I've been working on:
 
 1. [Ecorm Farmer Machines]: Brief description of the project.
    - Technologies used: Python, HTML, CSS ,Django,Java
-   - [Repository Link](URL_TO_PROJECT_REPO)
+   - (https://github.com/CosmicChild369/Ecommerce-Web).
 
 2. [Mobile Banking System]: Brief description of the project.
    - Technologies used: Embarcadero C++ bulider
-   - [Repository Link](URL_TO_PROJECT_REPO)
+   - (https://github.com/CosmicChild369/Banking-System-Application).
 
 
 
