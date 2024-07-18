@@ -5,7 +5,7 @@
 ## Welcome to My GitHub Profile!
 
 - 👋 Hi, I’m @CosmicChild369
-- 👀 I’m interested in embedded systems, cybersecurity, web development, and cloud computing,software development.
+- 👀 I’m interested in embedded systems, cybersecurity, web development, cloud computing, and software development.
 - 🌱 I’m currently learning machine learning, PLC programming, and advanced network systems.
 - 💞️ I’m looking to collaborate on innovative tech projects and open-source initiatives.
 - 📫 How to reach me: [lindokuhlemaphonyane976@gmail.com](mailto:lindokuhlemaphonyane976@gmail.com)
